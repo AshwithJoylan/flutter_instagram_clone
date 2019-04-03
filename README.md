@@ -1,6 +1,6 @@
-# fire
+# Flutter Instagram Clone
 
-A new Flutter project.
+A Flutter Instgram cone project using Firebase and FireStore.
 
 ## Getting Started
 
@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.io/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
+
+## Screens:
+<p align='center'>
+  <img src="https://github.com/AshwithJoylan/flutter_instagram_clone/blob/master/Screenshot_20190402-163131%20(1).jpg" width=380 height=720/>
+  <img src="https://github.com/AshwithJoylan/flutter_instagram_clone/blob/master/Screenshot_20190403-194428.jpg" width=380 height=720/>"
+</p>
